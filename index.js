@@ -3,7 +3,7 @@ const client = new Discord.Client();
 
 // 토큰 주소 1 (서버용)
   const token = process.argv.length == 2 ? process.env.token : "";
-
+//
 // 토큰 주소 2 (테스트용)
 //const token = 'NzMyMjY5MzQzNTM0MjE5MzM0.Xwyvew.K94apE-V6s2zTwSDQ8fAw6gul_M';
 
